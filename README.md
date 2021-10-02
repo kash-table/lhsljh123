@@ -1,6 +1,6 @@
-### Hi there 👋
+### 함께 성장하는 개발자, 이준호입니다. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhsljh123&show_icons=true&theme=radical)
+
 
 <!--
 **lhsljh123/lhsljh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
