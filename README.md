@@ -4,7 +4,7 @@
 
 - 🌱 **Test Driven Development**에 관심이 많습니다. (Jest, Storkbook, Cypress)
 
-- 👯 토스 회사의 **Design System과 극한의 UX 향상**에 관심이 많습니다.
+- 👯 **Design System과 극한의 UX 향상**에 관심이 많습니다.
 
 - 💬 중학교때부터 다양한 프로그래밍 분야를 접해왔고, 현재는 유저와 맞닿아있다고 생각하는 **프론트엔드**로 진로를 정했습니다.
 
