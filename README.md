@@ -9,4 +9,4 @@
 - 🤔 유저에게도, 개발자에게도 **더 좋은 코드를 짜기 위한 고민**이 많습니다.
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/dongsuni)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongsuni)](https://solved.ac/dongsuni)
